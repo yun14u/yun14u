@@ -11,4 +11,5 @@
 **Languages and Frameworks:**
 <p align="left">
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="Python" width="40" height="40" /></code>
 </p>
