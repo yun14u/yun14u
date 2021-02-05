@@ -19,6 +19,6 @@
 </p>
 ** Cloud Provider(s): **
 <p align="left">
-  <code><img src="https://github.com/yun14u/yun14u/blob/master/tools/docker.png" alt="terraform" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/yun14u/yun14u/blob/master/cloud/aws.png" alt="aws" width="40" height="40" /></code>&nbsp;
 </p>
 
