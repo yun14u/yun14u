@@ -3,7 +3,7 @@
 -->
 
 - 🔭 I’m currently working on ... building a prototype of a discontinued Amazon Dash button
-- 🌱 I’m currently learning ... Lambda and serverless computing
+- 🌱 I’m currently learning ... serverless computing, CKA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact - _almost_ met St Pope John Paul in 1994
